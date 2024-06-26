@@ -1,5 +1,5 @@
 # BinaryClassification
-Experimental Project of Statistical Methods for Machine Learning
+Experimental Project of "Statistical Methods for Machine Learning" and "Sistemi Intelligenti Avanzati"
 
 # Setup
 1) Create in Google Drive myDrive a directory called ml
